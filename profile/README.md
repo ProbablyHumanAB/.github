@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/finger-gun/.github/blob/main/finger-gun-logo.png" width=350 />
+  <img src="https://probablyhuman.se/images/logo-icon.svg" width=350 />
   
-# Finger Gun
+# Probably Human AB
 
 <h4>
   
@@ -21,25 +21,25 @@ Fueled by **vibe coding**, last-minute refactors, and the occasional “why is t
 
 ## 🚀 Check out
 
-### [sisu](https://github.com/Finger-Gun/sisu) — Grit-powered agents. Quiet, determined, relentlessly useful.
+### [sisu](https://github.com/ProbablyHumanAB/sisu) — Grit-powered agents. Quiet, determined, relentlessly useful.
 
 Sisu is a lightweight TypeScript framework for turning intent into action. Inspired by the Finnish idea of *sisu*—calm resolve under pressure—Sisu favors explicit tools, predictable plans, and built-in guardrails. No ceremony, no mystery: compose, decide, do.
 
 ---
 
-### [OpenMux](https://github.com/Finger-Gun/omux) — A fast, flexible, and hackable workspace for developers.
+### [OpenMux](https://github.com/ProbablyHumanAB/omux) — A fast, flexible, and hackable workspace for developers.
 
 OpenMUX exists for developers who want native terminal workflows without giving up inspectability, scriptability, or control. It takes the opposite bet from bloated, vendor-shaped terminals: keep the core small, keep the seams visible, and let hooks, events, and commands do the heavy lifting.
 
 ---
 
-### [DungeonPlanner](https://github.com/Finger-Gun/DungeonPlanner) — Made for TTRPG players who want their dungeon to look as good as it plays.
+### [DungeonPlanner](https://github.com/ProbablyHumanAB/DungeonPlanner) — Made for TTRPG players who want their dungeon to look as good as it plays.
 
 A 3D dungeon editor for tabletop RPG players — paint rooms, place props, and share your layout with your party.
 
 ---
 
-### [Reframe](https://github.com/Finger-Gun/Reframe)* — Your city just became a photo quest.
+### [Reframe](https://github.com/ProbablyHumanAB/Reframe)* — Your city just became a photo quest.
 
 Reframe is a photo discovery game that turns your city into a playground of visual challenges. Players receive image-based quests to find and re-capture real-world scenes. With AI-powered visual similarity, Reframe rewards accurate framing and composition.
 
@@ -47,12 +47,12 @@ _*Unfortunately private for now, and not released yet. Stay tuned._*
 
 ---
 
-### [ProjectSpecs](https://github.com/finger-gun/projectspec) — Specs that stay synced with reality.
+### [ProjectSpecs](https://github.com/ProbablyHumanAB/projectspec) — Specs that stay synced with reality.
 ProjectSpecs is a lightweight, AI-native spec layer for teams drowning in scattered requirements. It turns enterprise artifacts into structured, traceable project specs that stay human-readable, tool-friendly, and actually useful. Local-first, versioned, and built to make you more AI-enabled without copy/paste chaos.
 
 ---
 
-### [Dragonbane Unbound](https://github.com/finger-gun/dragonbane-unbound) — Run Dragonbane at the speed of play.
+### [Dragonbane Unbound](https://github.com/ProbablyHumanAB/dragonbane-unbound) — Run Dragonbane at the speed of play.
 
 Dragonbane Unbound is an open-source, **local-first platform** for running Dragonbane seamlessly at the table. It includes a modular rules engine, character builder, encounter runner, and community content system — all designed to reduce friction and keep the focus on play.
 
@@ -60,19 +60,8 @@ Fully Apache 2.0-licensed, self-hostable, and extensible. Built for players, GMs
 
 ---
 
-### [Linopress](https://github.com/finger-gun/linopress) — Prompt → build → verify → ship.
+### [Linopress](https://github.com/ProbablyHumanAB/linopress) — Prompt → build → verify → ship.
 
 Linopress is an **agentic WordPress site creator**. Give it a prompt and it provisions an isolated WordPress sandbox, generates themes, pages, and plugins using deterministic tools and skills, validates the result with an agent-driven browser, self-heals on failure, and produces a portable deploy bundle.
 
 From idea to verified site — automated, reproducible, and ready to ship.
-
----
-
-### [Homunculus](https://github.com/finger-gun/homunculus)* — The invisible HUD for tabletop RPGs.
-
-Homunculus is an **Invisible HUD** for TTRPGs designed to destroy the screen barrier. It’s a zero-click augmentation tool that listens to your session and provides instant rule lookups and campaign context drawn from your own notes.
-
-Not an AI GM or DM — but a dedicated librarian and chronicler.  
-Homunculus keeps the rules and history at your fingertips so you can keep your eyes on the players, not the screen.
-
-_*Currently private._*
